@@ -1,5 +1,7 @@
 # MeshPlacement
 
+<img width="64" height="64" alt="MeshPlacement" src="https://github.com/user-attachments/assets/57233128-99af-42cd-b23f-17bc44b23b97" />
+
 A FreeCAD macro to position one or more selected meshes at the global origin based on their bounding box.  
 This tool provides a dock widget with intuitive buttons to **center** or **align** meshes along X, Y, Z axes (or combinations like XY, XYZ). It works on single or multiple selected meshes, with undo safety and a clean UI layout.
 
